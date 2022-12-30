@@ -1,0 +1,193 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "In what contintent is Indonesia?",
+      "options": [
+        {
+          "id": "0",
+          "options": "A",
+          "answer": "South America"
+        },
+        {
+          "id": "1",
+          "options": "B",
+          "answer": "Europe"
+        },
+        {
+          "id": "2",
+          "options": "C",
+          "answer": "Asia"
+        },
+        {
+          "id": "3",
+          "options": "D",
+          "answer": "India"
+        }
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Which continent has the highest population density? ",
+      "options": [
+        {
+          "id": "0",
+          "options": "A",
+          "answer": "Asia"
+        },
+        {
+          "id": "1",
+          "options": "B",
+          "answer": "South Africa"
+        },
+        {
+          "id": "2",
+          "options": "C",
+          "answer": "Australia"
+        },
+        {
+          "id": "3",
+          "options": "D",
+          "answer": "Antarctica"
+        }
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "what is 5X5",
+      "options": [
+        {
+          "id": "0",
+          "options": "A",
+          "answer": "20"
+        },
+        {
+          "id": "1",
+          "options": "B",
+          "answer": "25"
+        },
+        {
+          "id": "2",
+          "options": "C",
+          "answer": "10"
+        },
+        {
+          "id": "3",
+          "options": "D",
+          "answer": "30"
+        }
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "what is the square root of 169",
+      "options": [
+        {
+          "id": "0",
+          "options": "A",
+          "answer": "20"
+        },
+        {
+          "id": "1",
+          "options": "B",
+          "answer": "23"
+        },
+        {
+          "id": "2",
+          "options": "C",
+          "answer": "13"
+        },
+        {
+          "id": "3",
+          "options": "D",
+          "answer": "23"
+        }
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the Smallest Ocean?",
+      "options": [
+        {
+          "id": "0",
+          "options": "A",
+          "answer": "Atlantic Ocean"
+        },
+        {
+          "id": "1",
+          "options": "B",
+          "answer": "Pacific Ocean"
+        },
+        {
+          "id": "2",
+          "options": "C",
+          "answer": "Arctic Ocean"
+        },
+        {
+          "id": "3",
+          "options": "D",
+          "answer": "Indian Ocean"
+        }
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "score": 0,
+      "choices": []
+    },
+    {
+      "score": 0,
+      "choices": [],
+      "id": 2
+    },
+    {
+      "score": 1,
+      "choices": [
+        {
+          "chosenOption": "0",
+          "correctOption": 2,
+          "questionId": 1
+        },
+        {
+          "chosenOption": "0",
+          "correctOption": 0,
+          "questionId": 2
+        },
+        {
+          "chosenOption": "0",
+          "correctOption": 1,
+          "questionId": 3
+        },
+        {
+          "chosenOption": "1",
+          "correctOption": 2,
+          "questionId": 4
+        },
+        {
+          "chosenOption": "1",
+          "correctOption": 2,
+          "questionId": 5
+        }
+      ],
+      "id": 3
+    },
+    {
+      "score": 1,
+      "choices": [
+        {
+          "chosenOption": "2",
+          "correctOption": 2,
+          "questionId": 1
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
